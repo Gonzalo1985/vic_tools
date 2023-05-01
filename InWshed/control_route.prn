@@ -1,0 +1,27 @@
+# INPUT FILE FOR GENERAL BASIN
+# NAME OF FLOW DIRECTION FILE
+/home/gdiaz/Documentos/Desarrollos/vic_tools/InWshed/rout_direccion.prn
+#NAME OF VELOCITY FILE
+.false.
+1.5
+# NAME OF DIFF FILE
+.false.
+800
+# NAME OF XMASK FILE
+.true.
+/home/gdiaz/Documentos/Desarrollos/vic_tools/InWshed/lp_xmask.asc
+# NAME OF FRACTION FILE
+.true.
+/home/gdiaz/Documentos/Desarrollos/vic_tools/InWshed/lp_frac.asc
+# NAME OF STATION FILE
+/home/gdiaz/Documentos/Desarrollos/vic_tools/InWshed/Location_File.asc
+# PATH OF INPUTS FILES AND PRECISION
+/data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_
+4
+# PATH OF OUTPUT FILES
+/data/oper-hidro/VIC/Outputs/Out_route_testing_dataset/
+# MONTHS TO PROCESS
+2020 1 2020 2
+2020 1 2020 2
+# NAME OF UNIT HYDROGRAPH FILE
+/home/gdiaz/Documentos/Desarrollos/vic_tools/InWshed/uh_all

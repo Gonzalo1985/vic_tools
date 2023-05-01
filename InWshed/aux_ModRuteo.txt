@@ -1,0 +1,706 @@
+ NDAY =           60  NMONTHS =            2
+ 1  PRUEB                 111  87
+ Routing station: PRUEB                
+ searching catchment...
+ Number of grid cells upstream of present station         345
+ reading grid_UH...
+ making grid UH...
+ making UH_S grid...it takes a while...
+ NOTE:  your new UH_S grid file will be written in the
+        directory you run from, and will be called
+             PRUEB.uh_s
+        save this file and specify it in your station
+        location file to avoid this step in the future
+ grid cell           1  out of         345
+ grid cell           2  out of         345
+ grid cell           3  out of         345
+ grid cell           4  out of         345
+ grid cell           5  out of         345
+ grid cell           6  out of         345
+ grid cell           7  out of         345
+ grid cell           8  out of         345
+ grid cell           9  out of         345
+ grid cell          10  out of         345
+ grid cell          11  out of         345
+ grid cell          12  out of         345
+ grid cell          13  out of         345
+ grid cell          14  out of         345
+ grid cell          15  out of         345
+ grid cell          16  out of         345
+ grid cell          17  out of         345
+ grid cell          18  out of         345
+ grid cell          19  out of         345
+ grid cell          20  out of         345
+ grid cell          21  out of         345
+ grid cell          22  out of         345
+ grid cell          23  out of         345
+ grid cell          24  out of         345
+ grid cell          25  out of         345
+ grid cell          26  out of         345
+ grid cell          27  out of         345
+ grid cell          28  out of         345
+ grid cell          29  out of         345
+ grid cell          30  out of         345
+ grid cell          31  out of         345
+ grid cell          32  out of         345
+ grid cell          33  out of         345
+ grid cell          34  out of         345
+ grid cell          35  out of         345
+ grid cell          36  out of         345
+ grid cell          37  out of         345
+ grid cell          38  out of         345
+ grid cell          39  out of         345
+ grid cell          40  out of         345
+ grid cell          41  out of         345
+ grid cell          42  out of         345
+ grid cell          43  out of         345
+ grid cell          44  out of         345
+ grid cell          45  out of         345
+ grid cell          46  out of         345
+ grid cell          47  out of         345
+ grid cell          48  out of         345
+ grid cell          49  out of         345
+ grid cell          50  out of         345
+ grid cell          51  out of         345
+ grid cell          52  out of         345
+ grid cell          53  out of         345
+ grid cell          54  out of         345
+ grid cell          55  out of         345
+ grid cell          56  out of         345
+ grid cell          57  out of         345
+ grid cell          58  out of         345
+ grid cell          59  out of         345
+ grid cell          60  out of         345
+ grid cell          61  out of         345
+ grid cell          62  out of         345
+ grid cell          63  out of         345
+ grid cell          64  out of         345
+ grid cell          65  out of         345
+ grid cell          66  out of         345
+ grid cell          67  out of         345
+ grid cell          68  out of         345
+ grid cell          69  out of         345
+ grid cell          70  out of         345
+ grid cell          71  out of         345
+ grid cell          72  out of         345
+ grid cell          73  out of         345
+ grid cell          74  out of         345
+ grid cell          75  out of         345
+ grid cell          76  out of         345
+ grid cell          77  out of         345
+ grid cell          78  out of         345
+ grid cell          79  out of         345
+ grid cell          80  out of         345
+ grid cell          81  out of         345
+ grid cell          82  out of         345
+ grid cell          83  out of         345
+ grid cell          84  out of         345
+ grid cell          85  out of         345
+ grid cell          86  out of         345
+ grid cell          87  out of         345
+ grid cell          88  out of         345
+ grid cell          89  out of         345
+ grid cell          90  out of         345
+ grid cell          91  out of         345
+ grid cell          92  out of         345
+ grid cell          93  out of         345
+ grid cell          94  out of         345
+ grid cell          95  out of         345
+ grid cell          96  out of         345
+ grid cell          97  out of         345
+ grid cell          98  out of         345
+ grid cell          99  out of         345
+ grid cell         100  out of         345
+ grid cell         101  out of         345
+ grid cell         102  out of         345
+ grid cell         103  out of         345
+ grid cell         104  out of         345
+ grid cell         105  out of         345
+ grid cell         106  out of         345
+ grid cell         107  out of         345
+ grid cell         108  out of         345
+ grid cell         109  out of         345
+ grid cell         110  out of         345
+ grid cell         111  out of         345
+ grid cell         112  out of         345
+ grid cell         113  out of         345
+ grid cell         114  out of         345
+ grid cell         115  out of         345
+ grid cell         116  out of         345
+ grid cell         117  out of         345
+ grid cell         118  out of         345
+ grid cell         119  out of         345
+ grid cell         120  out of         345
+ grid cell         121  out of         345
+ grid cell         122  out of         345
+ grid cell         123  out of         345
+ grid cell         124  out of         345
+ grid cell         125  out of         345
+ grid cell         126  out of         345
+ grid cell         127  out of         345
+ grid cell         128  out of         345
+ grid cell         129  out of         345
+ grid cell         130  out of         345
+ grid cell         131  out of         345
+ grid cell         132  out of         345
+ grid cell         133  out of         345
+ grid cell         134  out of         345
+ grid cell         135  out of         345
+ grid cell         136  out of         345
+ grid cell         137  out of         345
+ grid cell         138  out of         345
+ grid cell         139  out of         345
+ grid cell         140  out of         345
+ grid cell         141  out of         345
+ grid cell         142  out of         345
+ grid cell         143  out of         345
+ grid cell         144  out of         345
+ grid cell         145  out of         345
+ grid cell         146  out of         345
+ grid cell         147  out of         345
+ grid cell         148  out of         345
+ grid cell         149  out of         345
+ grid cell         150  out of         345
+ grid cell         151  out of         345
+ grid cell         152  out of         345
+ grid cell         153  out of         345
+ grid cell         154  out of         345
+ grid cell         155  out of         345
+ grid cell         156  out of         345
+ grid cell         157  out of         345
+ grid cell         158  out of         345
+ grid cell         159  out of         345
+ grid cell         160  out of         345
+ grid cell         161  out of         345
+ grid cell         162  out of         345
+ grid cell         163  out of         345
+ grid cell         164  out of         345
+ grid cell         165  out of         345
+ grid cell         166  out of         345
+ grid cell         167  out of         345
+ grid cell         168  out of         345
+ grid cell         169  out of         345
+ grid cell         170  out of         345
+ grid cell         171  out of         345
+ grid cell         172  out of         345
+ grid cell         173  out of         345
+ grid cell         174  out of         345
+ grid cell         175  out of         345
+ grid cell         176  out of         345
+ grid cell         177  out of         345
+ grid cell         178  out of         345
+ grid cell         179  out of         345
+ grid cell         180  out of         345
+ grid cell         181  out of         345
+ grid cell         182  out of         345
+ grid cell         183  out of         345
+ grid cell         184  out of         345
+ grid cell         185  out of         345
+ grid cell         186  out of         345
+ grid cell         187  out of         345
+ grid cell         188  out of         345
+ grid cell         189  out of         345
+ grid cell         190  out of         345
+ grid cell         191  out of         345
+ grid cell         192  out of         345
+ grid cell         193  out of         345
+ grid cell         194  out of         345
+ grid cell         195  out of         345
+ grid cell         196  out of         345
+ grid cell         197  out of         345
+ grid cell         198  out of         345
+ grid cell         199  out of         345
+ grid cell         200  out of         345
+ grid cell         201  out of         345
+ grid cell         202  out of         345
+ grid cell         203  out of         345
+ grid cell         204  out of         345
+ grid cell         205  out of         345
+ grid cell         206  out of         345
+ grid cell         207  out of         345
+ grid cell         208  out of         345
+ grid cell         209  out of         345
+ grid cell         210  out of         345
+ grid cell         211  out of         345
+ grid cell         212  out of         345
+ grid cell         213  out of         345
+ grid cell         214  out of         345
+ grid cell         215  out of         345
+ grid cell         216  out of         345
+ grid cell         217  out of         345
+ grid cell         218  out of         345
+ grid cell         219  out of         345
+ grid cell         220  out of         345
+ grid cell         221  out of         345
+ grid cell         222  out of         345
+ grid cell         223  out of         345
+ grid cell         224  out of         345
+ grid cell         225  out of         345
+ grid cell         226  out of         345
+ grid cell         227  out of         345
+ grid cell         228  out of         345
+ grid cell         229  out of         345
+ grid cell         230  out of         345
+ grid cell         231  out of         345
+ grid cell         232  out of         345
+ grid cell         233  out of         345
+ grid cell         234  out of         345
+ grid cell         235  out of         345
+ grid cell         236  out of         345
+ grid cell         237  out of         345
+ grid cell         238  out of         345
+ grid cell         239  out of         345
+ grid cell         240  out of         345
+ grid cell         241  out of         345
+ grid cell         242  out of         345
+ grid cell         243  out of         345
+ grid cell         244  out of         345
+ grid cell         245  out of         345
+ grid cell         246  out of         345
+ grid cell         247  out of         345
+ grid cell         248  out of         345
+ grid cell         249  out of         345
+ grid cell         250  out of         345
+ grid cell         251  out of         345
+ grid cell         252  out of         345
+ grid cell         253  out of         345
+ grid cell         254  out of         345
+ grid cell         255  out of         345
+ grid cell         256  out of         345
+ grid cell         257  out of         345
+ grid cell         258  out of         345
+ grid cell         259  out of         345
+ grid cell         260  out of         345
+ grid cell         261  out of         345
+ grid cell         262  out of         345
+ grid cell         263  out of         345
+ grid cell         264  out of         345
+ grid cell         265  out of         345
+ grid cell         266  out of         345
+ grid cell         267  out of         345
+ grid cell         268  out of         345
+ grid cell         269  out of         345
+ grid cell         270  out of         345
+ grid cell         271  out of         345
+ grid cell         272  out of         345
+ grid cell         273  out of         345
+ grid cell         274  out of         345
+ grid cell         275  out of         345
+ grid cell         276  out of         345
+ grid cell         277  out of         345
+ grid cell         278  out of         345
+ grid cell         279  out of         345
+ grid cell         280  out of         345
+ grid cell         281  out of         345
+ grid cell         282  out of         345
+ grid cell         283  out of         345
+ grid cell         284  out of         345
+ grid cell         285  out of         345
+ grid cell         286  out of         345
+ grid cell         287  out of         345
+ grid cell         288  out of         345
+ grid cell         289  out of         345
+ grid cell         290  out of         345
+ grid cell         291  out of         345
+ grid cell         292  out of         345
+ grid cell         293  out of         345
+ grid cell         294  out of         345
+ grid cell         295  out of         345
+ grid cell         296  out of         345
+ grid cell         297  out of         345
+ grid cell         298  out of         345
+ grid cell         299  out of         345
+ grid cell         300  out of         345
+ grid cell         301  out of         345
+ grid cell         302  out of         345
+ grid cell         303  out of         345
+ grid cell         304  out of         345
+ grid cell         305  out of         345
+ grid cell         306  out of         345
+ grid cell         307  out of         345
+ grid cell         308  out of         345
+ grid cell         309  out of         345
+ grid cell         310  out of         345
+ grid cell         311  out of         345
+ grid cell         312  out of         345
+ grid cell         313  out of         345
+ grid cell         314  out of         345
+ grid cell         315  out of         345
+ grid cell         316  out of         345
+ grid cell         317  out of         345
+ grid cell         318  out of         345
+ grid cell         319  out of         345
+ grid cell         320  out of         345
+ grid cell         321  out of         345
+ grid cell         322  out of         345
+ grid cell         323  out of         345
+ grid cell         324  out of         345
+ grid cell         325  out of         345
+ grid cell         326  out of         345
+ grid cell         327  out of         345
+ grid cell         328  out of         345
+ grid cell         329  out of         345
+ grid cell         330  out of         345
+ grid cell         331  out of         345
+ grid cell         332  out of         345
+ grid cell         333  out of         345
+ grid cell         334  out of         345
+ grid cell         335  out of         345
+ grid cell         336  out of         345
+ grid cell         337  out of         345
+ grid cell         338  out of         345
+ grid cell         339  out of         345
+ grid cell         340  out of         345
+ grid cell         341  out of         345
+ grid cell         342  out of         345
+ grid cell         343  out of         345
+ grid cell         344  out of         345
+ grid cell         345  out of         345
+ making convolution...
+           1  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.9375_-49.4375
+           2  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.8125_-49.4375
+           3  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-28.0625_-49.5625
+           4  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.9375_-49.5625
+           5  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.8125_-49.5625
+           6  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-28.1875_-49.6875
+           7  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-28.0625_-49.6875
+           8  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.9375_-49.6875
+           9  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.8125_-49.6875
+          10  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.6875_-49.6875
+          11  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-28.4375_-49.8125
+          12  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-28.3125_-49.8125
+          13  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-28.1875_-49.8125
+          14  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-28.0625_-49.8125
+          15  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.9375_-49.8125
+          16  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.8125_-49.8125
+          17  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.6875_-49.8125
+          18  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-28.6875_-49.9375
+          19  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-28.5625_-49.9375
+          20  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-28.4375_-49.9375
+          21  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-28.3125_-49.9375
+          22  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-28.1875_-49.9375
+          23  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-28.0625_-49.9375
+          24  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.9375_-49.9375
+          25  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.8125_-49.9375
+          26  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.6875_-49.9375
+          27  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.5625_-49.9375
+          28  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-28.6875_-50.0625
+          29  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-28.5625_-50.0625
+          30  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-28.4375_-50.0625
+          31  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-28.3125_-50.0625
+          32  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-28.1875_-50.0625
+          33  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-28.0625_-50.0625
+          34  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.9375_-50.0625
+          35  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.8125_-50.0625
+          36  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.6875_-50.0625
+          37  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.5625_-50.0625
+          38  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.4375_-50.0625
+          39  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-28.6875_-50.1875
+          40  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-28.5625_-50.1875
+          41  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-28.4375_-50.1875
+          42  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-28.3125_-50.1875
+          43  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-28.1875_-50.1875
+          44  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-28.0625_-50.1875
+          45  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.9375_-50.1875
+          46  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.8125_-50.1875
+          47  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.6875_-50.1875
+          48  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.5625_-50.1875
+          49  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.4375_-50.1875
+          50  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.3125_-50.1875
+          51  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-28.6875_-50.3125
+          52  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-28.5625_-50.3125
+          53  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-28.4375_-50.3125
+          54  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-28.3125_-50.3125
+          55  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-28.1875_-50.3125
+          56  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-28.0625_-50.3125
+          57  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.9375_-50.3125
+          58  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.8125_-50.3125
+          59  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.6875_-50.3125
+          60  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.5625_-50.3125
+          61  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.4375_-50.3125
+          62  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.3125_-50.3125
+          63  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-26.9375_-50.3125
+          64  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-28.5625_-50.4375
+          65  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-28.4375_-50.4375
+          66  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-28.3125_-50.4375
+          67  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-28.1875_-50.4375
+          68  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-28.0625_-50.4375
+          69  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.9375_-50.4375
+          70  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.8125_-50.4375
+          71  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.6875_-50.4375
+          72  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.5625_-50.4375
+          73  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.4375_-50.4375
+          74  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.3125_-50.4375
+          75  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.1875_-50.4375
+          76  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-26.9375_-50.4375
+          77  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-28.5625_-50.5625
+          78  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-28.4375_-50.5625
+          79  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-28.3125_-50.5625
+          80  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-28.1875_-50.5625
+          81  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-28.0625_-50.5625
+          82  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.9375_-50.5625
+          83  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.8125_-50.5625
+          84  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.6875_-50.5625
+          85  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.5625_-50.5625
+          86  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.4375_-50.5625
+          87  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.3125_-50.5625
+          88  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.1875_-50.5625
+          89  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.0625_-50.5625
+          90  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-26.9375_-50.5625
+          91  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-28.5625_-50.6875
+          92  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-28.4375_-50.6875
+          93  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-28.3125_-50.6875
+          94  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-28.1875_-50.6875
+          95  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-28.0625_-50.6875
+          96  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.9375_-50.6875
+          97  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.8125_-50.6875
+          98  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.6875_-50.6875
+          99  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.5625_-50.6875
+         100  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.4375_-50.6875
+         101  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.3125_-50.6875
+         102  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.1875_-50.6875
+         103  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.0625_-50.6875
+         104  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-26.9375_-50.6875
+         105  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-26.8125_-50.6875
+         106  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-28.4375_-50.8125
+         107  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-28.3125_-50.8125
+         108  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-28.1875_-50.8125
+         109  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-28.0625_-50.8125
+         110  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.9375_-50.8125
+         111  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.8125_-50.8125
+         112  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.6875_-50.8125
+         113  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.5625_-50.8125
+         114  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.4375_-50.8125
+         115  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.3125_-50.8125
+         116  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.1875_-50.8125
+         117  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.0625_-50.8125
+         118  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-26.9375_-50.8125
+         119  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-26.8125_-50.8125
+         120  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-28.3125_-50.9375
+         121  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-28.1875_-50.9375
+         122  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-28.0625_-50.9375
+         123  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.9375_-50.9375
+         124  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.8125_-50.9375
+         125  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.6875_-50.9375
+         126  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.5625_-50.9375
+         127  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.4375_-50.9375
+         128  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.3125_-50.9375
+         129  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.1875_-50.9375
+         130  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.0625_-50.9375
+         131  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-26.9375_-50.9375
+         132  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-26.8125_-50.9375
+         133  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-26.6875_-50.9375
+         134  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-28.1875_-51.0625
+         135  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-28.0625_-51.0625
+         136  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.9375_-51.0625
+         137  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.8125_-51.0625
+         138  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.6875_-51.0625
+         139  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.5625_-51.0625
+         140  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.4375_-51.0625
+         141  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.3125_-51.0625
+         142  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.1875_-51.0625
+         143  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.0625_-51.0625
+         144  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-26.9375_-51.0625
+         145  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-26.8125_-51.0625
+         146  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-26.6875_-51.0625
+         147  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-28.1875_-51.1875
+         148  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-28.0625_-51.1875
+         149  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.9375_-51.1875
+         150  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.8125_-51.1875
+         151  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.6875_-51.1875
+         152  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.5625_-51.1875
+         153  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.4375_-51.1875
+         154  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.3125_-51.1875
+         155  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.1875_-51.1875
+         156  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.0625_-51.1875
+         157  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-26.9375_-51.1875
+         158  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-26.8125_-51.1875
+         159  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-28.1875_-51.3125
+         160  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-28.0625_-51.3125
+         161  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.9375_-51.3125
+         162  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.8125_-51.3125
+         163  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.6875_-51.3125
+         164  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.5625_-51.3125
+         165  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.4375_-51.3125
+         166  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.3125_-51.3125
+         167  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.1875_-51.3125
+         168  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.0625_-51.3125
+         169  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-26.9375_-51.3125
+         170  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-26.8125_-51.3125
+         171  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-28.1875_-51.4375
+         172  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-28.0625_-51.4375
+         173  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.9375_-51.4375
+         174  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.8125_-51.4375
+         175  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.6875_-51.4375
+         176  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.5625_-51.4375
+         177  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.4375_-51.4375
+         178  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.3125_-51.4375
+         179  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.1875_-51.4375
+         180  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.0625_-51.4375
+         181  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-26.9375_-51.4375
+         182  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-26.8125_-51.4375
+         183  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-26.6875_-51.4375
+         184  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-28.1875_-51.5625
+         185  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-28.0625_-51.5625
+         186  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.9375_-51.5625
+         187  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.8125_-51.5625
+         188  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.6875_-51.5625
+         189  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.5625_-51.5625
+         190  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.4375_-51.5625
+         191  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.3125_-51.5625
+         192  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.1875_-51.5625
+         193  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.0625_-51.5625
+         194  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-26.9375_-51.5625
+         195  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-26.8125_-51.5625
+         196  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-26.6875_-51.5625
+         197  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-28.1875_-51.6875
+         198  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-28.0625_-51.6875
+         199  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.9375_-51.6875
+         200  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.8125_-51.6875
+         201  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.6875_-51.6875
+         202  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.5625_-51.6875
+         203  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.4375_-51.6875
+         204  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.3125_-51.6875
+         205  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.1875_-51.6875
+         206  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.0625_-51.6875
+         207  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-26.9375_-51.6875
+         208  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-26.8125_-51.6875
+         209  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-26.6875_-51.6875
+         210  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-28.1875_-51.8125
+         211  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-28.0625_-51.8125
+         212  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.9375_-51.8125
+         213  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.8125_-51.8125
+         214  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.6875_-51.8125
+         215  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.5625_-51.8125
+         216  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.4375_-51.8125
+         217  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.3125_-51.8125
+         218  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.1875_-51.8125
+         219  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.0625_-51.8125
+         220  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-26.9375_-51.8125
+         221  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-26.8125_-51.8125
+         222  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-26.6875_-51.8125
+         223  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-28.1875_-51.9375
+         224  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-28.0625_-51.9375
+         225  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.9375_-51.9375
+         226  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.8125_-51.9375
+         227  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.6875_-51.9375
+         228  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.5625_-51.9375
+         229  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.4375_-51.9375
+         230  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.3125_-51.9375
+         231  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.1875_-51.9375
+         232  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.0625_-51.9375
+         233  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-26.9375_-51.9375
+         234  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-26.8125_-51.9375
+         235  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-26.6875_-51.9375
+         236  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-28.1875_-52.0625
+         237  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-28.0625_-52.0625
+         238  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.9375_-52.0625
+         239  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.8125_-52.0625
+         240  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.6875_-52.0625
+         241  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.5625_-52.0625
+         242  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.4375_-52.0625
+         243  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.3125_-52.0625
+         244  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.1875_-52.0625
+         245  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.0625_-52.0625
+         246  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-26.9375_-52.0625
+         247  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-26.8125_-52.0625
+         248  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-26.6875_-52.0625
+         249  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-26.5625_-52.0625
+         250  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-28.1875_-52.1875
+         251  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-28.0625_-52.1875
+         252  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.9375_-52.1875
+         253  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.8125_-52.1875
+         254  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.6875_-52.1875
+         255  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.5625_-52.1875
+         256  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.4375_-52.1875
+         257  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.3125_-52.1875
+         258  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.1875_-52.1875
+         259  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.0625_-52.1875
+         260  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-26.9375_-52.1875
+         261  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-26.8125_-52.1875
+         262  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-26.6875_-52.1875
+         263  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-26.5625_-52.1875
+         264  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-28.1875_-52.3125
+         265  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-28.0625_-52.3125
+         266  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.9375_-52.3125
+         267  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.8125_-52.3125
+         268  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.6875_-52.3125
+         269  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.5625_-52.3125
+         270  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.4375_-52.3125
+         271  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.3125_-52.3125
+         272  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.1875_-52.3125
+         273  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.0625_-52.3125
+         274  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-26.9375_-52.3125
+         275  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-26.8125_-52.3125
+         276  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-26.6875_-52.3125
+         277  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-26.5625_-52.3125
+         278  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-28.1875_-52.4375
+         279  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-28.0625_-52.4375
+         280  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.9375_-52.4375
+         281  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.8125_-52.4375
+         282  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.6875_-52.4375
+         283  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.5625_-52.4375
+         284  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.4375_-52.4375
+         285  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.3125_-52.4375
+         286  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.1875_-52.4375
+         287  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.0625_-52.4375
+         288  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-26.9375_-52.4375
+         289  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-26.8125_-52.4375
+         290  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-26.6875_-52.4375
+         291  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-26.5625_-52.4375
+         292  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-28.0625_-52.5625
+         293  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.9375_-52.5625
+         294  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.8125_-52.5625
+         295  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.6875_-52.5625
+         296  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.5625_-52.5625
+         297  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.4375_-52.5625
+         298  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.3125_-52.5625
+         299  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.1875_-52.5625
+         300  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.0625_-52.5625
+         301  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-26.9375_-52.5625
+         302  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-26.8125_-52.5625
+         303  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-26.6875_-52.5625
+         304  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-26.5625_-52.5625
+         305  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-26.4375_-52.5625
+         306  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.9375_-52.6875
+         307  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.8125_-52.6875
+         308  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.6875_-52.6875
+         309  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.5625_-52.6875
+         310  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.4375_-52.6875
+         311  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.3125_-52.6875
+         312  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.1875_-52.6875
+         313  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.0625_-52.6875
+         314  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-26.9375_-52.6875
+         315  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-26.8125_-52.6875
+Note: The following floating-point exceptions are signalling: IEEE_UNDERFLOW_FLAG IEEE_DENORMAL
+         316  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-26.6875_-52.6875
+         317  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-26.5625_-52.6875
+         318  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-26.4375_-52.6875
+         319  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.6875_-52.8125
+         320  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.5625_-52.8125
+         321  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.4375_-52.8125
+         322  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.3125_-52.8125
+         323  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.1875_-52.8125
+         324  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.0625_-52.8125
+         325  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-26.9375_-52.8125
+         326  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-26.8125_-52.8125
+         327  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-26.6875_-52.8125
+         328  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-26.5625_-52.8125
+         329  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-26.4375_-52.8125
+         330  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.3125_-52.9375
+         331  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.1875_-52.9375
+         332  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.0625_-52.9375
+         333  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-26.9375_-52.9375
+         334  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-26.8125_-52.9375
+         335  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-26.6875_-52.9375
+         336  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-26.5625_-52.9375
+         337  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-26.4375_-52.9375
+         338  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.1875_-53.0625
+         339  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.0625_-53.0625
+         340  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-26.9375_-53.0625
+         341  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-26.8125_-53.0625
+         342  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-26.6875_-53.0625
+         343  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-26.5625_-53.0625
+         344  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-26.4375_-53.0625
+         345  of         345 : /data/oper-hidro/VIC/Outputs/Out_VIC_testing_dataset/fluxes_-27.1875_-53.1875
+ writing data...
