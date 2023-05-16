@@ -1,5 +1,5 @@
 # vic_tools
-Some scripts with useful tools for the VIC (Variable Infiltration Capacity) model in La Plata Basin (LPB) region.
+Some scripts with useful tools for the VIC (Variable Infiltration Capacity) model (https://vic.readthedocs.io/en/master/) in La Plata Basin (LPB) region.
 
 ## Clone the repository
 To clone the repository in your work station, write the following command from an OS terminal:
