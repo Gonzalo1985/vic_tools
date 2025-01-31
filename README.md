@@ -16,3 +16,6 @@ The **InWshed** subfolder contains the files for the application that finds the 
 $ ./determina-puntos-cuenca.bash -56.8125 -29.5625 PASOL
 ```
 First the longitude and latitude of the closing point is what is indicated and then a name of the point (no more than 5 letters). In the **test** folder there are some sample output files.
+
+## Operational
+The **Operational** subfolder contains the files in bash and R language for running the model in operational mode with different databases. There is also a folder for post processing.
